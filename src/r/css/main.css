@@ -1,0 +1,49 @@
+body{
+    text-shadow: #161515;
+    background-color: #272626;
+}
+
+body ul a {
+    color: #eb250b;
+}
+
+h2 {
+    text-align: center;
+    color: #7ae4c1; 
+}
+
+h3 {
+    font-size: 20px;
+    color: #fff;
+}
+
+h3 a{
+    font-size: 20px;
+    color:palevioletred;
+}
+
+ul {
+    text-align: center;
+    margin-right: 35px;
+}
+
+li {
+    display: inline;
+}
+
+.center {
+    color: #7850e7;
+    text-align: center;
+}
+
+.wrap {
+    padding: 20px;
+    word-break: break-all
+}
+
+.source{
+    font-size: larger;
+    color: #2fceb9;
+    padding: 100px;
+    text-align: center;
+}
